@@ -9,9 +9,9 @@
 
 ### Screen-shots
 
-![Build process with Ant](<img alt="" src="https://github.com/biahudaom/math-util-ant/blob/main/screenshot/build-process-with-ant.png">)
+![Build process with Ant](img alt="" src="https://github.com/biahudaom/math-util-ant/blob/main/screenshot/build-process-with-ant.png")
 
-![DDT source code with JUnit](<img alt="" src="https://github.com/biahudaom/math-util-ant/blob/main/screenshot/ddt-source-using-junit.png">)
+![DDT source code with JUnit]()<img alt="" src="https://github.com/biahudaom/math-util-ant/blob/main/screenshot/ddt-source-using-junit.png">
 
 #### Connect me via kimdat0705@gmail.com
 
